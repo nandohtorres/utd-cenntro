@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/github.io/utd-cenntro/static/css/main.f049b5a5.css",
-    "main.js": "/github.io/utd-cenntro/static/js/main.022e4824.js",
-    "static/js/787.0fb61d32.chunk.js": "/github.io/utd-cenntro/static/js/787.0fb61d32.chunk.js",
-    "static/media/car1.jpg": "/github.io/utd-cenntro/static/media/car1.a27dcf84629f89c777df.jpg",
-    "static/media/car3.jpg": "/github.io/utd-cenntro/static/media/car3.719ee3e6d5f7029941ad.jpg",
-    "static/media/car2.jpg": "/github.io/utd-cenntro/static/media/car2.ea4adc430da82fa473a1.jpg",
-    "static/media/background.jpg": "/github.io/utd-cenntro/static/media/background.5314b8a90af4a169af0d.jpg",
-    "static/media/6.jpg": "/github.io/utd-cenntro/static/media/6.0df9f9431a2ab5e400b3.jpg",
-    "static/media/header-iChassis1000.jpg": "/github.io/utd-cenntro/static/media/header-iChassis1000.b8bf1bedc3fe4c81bc32.jpg",
-    "static/media/maybebanner.jpg": "/github.io/utd-cenntro/static/media/maybebanner.c29b8de4fc8726ddf0e6.jpg",
-    "static/media/header_iChassis100.jpg": "/github.io/utd-cenntro/static/media/header_iChassis100.70f9a1858a968c7641ae.jpg",
-    "static/media/iChassisFlatBedmini.jpg": "/github.io/utd-cenntro/static/media/iChassisFlatBedmini.9bfbeb977a68e81ee5c4.jpg",
-    "static/media/5.jpg": "/github.io/utd-cenntro/static/media/5.503bd6931e9bdc65bd67.jpg",
-    "static/media/3.jpg": "/github.io/utd-cenntro/static/media/3.30fe017f864e0a3334a6.jpg",
-    "static/media/4.jpg": "/github.io/utd-cenntro/static/media/4.07a6968fd87374648235.jpg",
-    "static/media/2.jpg": "/github.io/utd-cenntro/static/media/2.5c1a96cde48b54391b3f.jpg",
-    "static/media/1.jpg": "/github.io/utd-cenntro/static/media/1.1205e6a5214dd4700b05.jpg",
-    "index.html": "/github.io/utd-cenntro/index.html",
-    "main.f049b5a5.css.map": "/github.io/utd-cenntro/static/css/main.f049b5a5.css.map",
-    "main.022e4824.js.map": "/github.io/utd-cenntro/static/js/main.022e4824.js.map",
-    "787.0fb61d32.chunk.js.map": "/github.io/utd-cenntro/static/js/787.0fb61d32.chunk.js.map"
+    "main.css": "/static/css/main.f049b5a5.css",
+    "main.js": "/static/js/main.8260d993.js",
+    "static/js/787.0fb61d32.chunk.js": "/static/js/787.0fb61d32.chunk.js",
+    "static/media/car1.jpg": "/static/media/car1.a27dcf84629f89c777df.jpg",
+    "static/media/car3.jpg": "/static/media/car3.719ee3e6d5f7029941ad.jpg",
+    "static/media/car2.jpg": "/static/media/car2.ea4adc430da82fa473a1.jpg",
+    "static/media/background.jpg": "/static/media/background.5314b8a90af4a169af0d.jpg",
+    "static/media/6.jpg": "/static/media/6.0df9f9431a2ab5e400b3.jpg",
+    "static/media/header-iChassis1000.jpg": "/static/media/header-iChassis1000.b8bf1bedc3fe4c81bc32.jpg",
+    "static/media/maybebanner.jpg": "/static/media/maybebanner.c29b8de4fc8726ddf0e6.jpg",
+    "static/media/header_iChassis100.jpg": "/static/media/header_iChassis100.70f9a1858a968c7641ae.jpg",
+    "static/media/iChassisFlatBedmini.jpg": "/static/media/iChassisFlatBedmini.9bfbeb977a68e81ee5c4.jpg",
+    "static/media/5.jpg": "/static/media/5.503bd6931e9bdc65bd67.jpg",
+    "static/media/3.jpg": "/static/media/3.30fe017f864e0a3334a6.jpg",
+    "static/media/4.jpg": "/static/media/4.07a6968fd87374648235.jpg",
+    "static/media/2.jpg": "/static/media/2.5c1a96cde48b54391b3f.jpg",
+    "static/media/1.jpg": "/static/media/1.1205e6a5214dd4700b05.jpg",
+    "index.html": "/index.html",
+    "main.f049b5a5.css.map": "/static/css/main.f049b5a5.css.map",
+    "main.8260d993.js.map": "/static/js/main.8260d993.js.map",
+    "787.0fb61d32.chunk.js.map": "/static/js/787.0fb61d32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f049b5a5.css",
-    "static/js/main.022e4824.js"
+    "static/js/main.8260d993.js"
   ]
 }
