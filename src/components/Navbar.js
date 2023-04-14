@@ -23,7 +23,7 @@ function Navbar() {
         </div>
       </div>
       <div className="rightSide">
-        <Link to="/"> Home </Link>
+        <Link to="/utd-cenntro"> Home </Link>
         <Link to="/present"> Presentation </Link>
         <Link to="/about"> About Us </Link>
 
