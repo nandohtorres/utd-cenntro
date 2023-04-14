@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/utd-cenntro/static/css/main.f049b5a5.css",
-    "main.js": "/utd-cenntro/static/js/main.468866bf.js",
+    "main.js": "/utd-cenntro/static/js/main.19eeb3a5.js",
     "static/js/787.0fb61d32.chunk.js": "/utd-cenntro/static/js/787.0fb61d32.chunk.js",
     "static/media/car1.jpg": "/utd-cenntro/static/media/car1.a27dcf84629f89c777df.jpg",
     "static/media/car3.jpg": "/utd-cenntro/static/media/car3.719ee3e6d5f7029941ad.jpg",
@@ -19,11 +19,11 @@
     "static/media/1.jpg": "/utd-cenntro/static/media/1.1205e6a5214dd4700b05.jpg",
     "index.html": "/utd-cenntro/index.html",
     "main.f049b5a5.css.map": "/utd-cenntro/static/css/main.f049b5a5.css.map",
-    "main.468866bf.js.map": "/utd-cenntro/static/js/main.468866bf.js.map",
+    "main.19eeb3a5.js.map": "/utd-cenntro/static/js/main.19eeb3a5.js.map",
     "787.0fb61d32.chunk.js.map": "/utd-cenntro/static/js/787.0fb61d32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f049b5a5.css",
-    "static/js/main.468866bf.js"
+    "static/js/main.19eeb3a5.js"
   ]
 }
