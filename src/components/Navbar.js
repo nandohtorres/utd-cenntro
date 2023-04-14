@@ -17,7 +17,7 @@ function Navbar() {
         <img src={Logo} alt="Cenntro's iChassis flatbed used as website icon." />
         
         <div className="hiddenLinks">
-          <Link to="/"> Home </Link>
+          <Link to="/utd-cenntro"> Home </Link>
           <Link to="/present"> Present </Link>
           <Link to="/about"> About Us </Link>
         </div>
