@@ -23,7 +23,7 @@
 }
 
 
-.angled {
+.paragraph1 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -31,13 +31,13 @@
     width: 95%;
     height: auto;
     margin-bottom: 40px;
-    margin: 1.5em;
+    margin: 3em;
 }
-.angled img{
+.paragraph1 img{
     width: 35%;
     height: auto;
 }
-.angled-text{
+.paragraph1-text{
     display: flex;
     flex-grow: 1;
     text-align: center;
@@ -50,7 +50,7 @@
 }
 
 
-.front {
+.paragraph2 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -58,13 +58,13 @@
     width: 95%;
     height: auto;
     margin-bottom: 40px;
-    margin: 1.5em;
+    margin: 3em;
 }
-.front img{
+.paragraph2 img{
     width: 35%;
     height: auto;
 }
-.front-text{
+.paragraph2-text{
     display: flex;
     flex-grow: 1;
     text-align: center;
@@ -87,7 +87,7 @@
     font-size: 30px;
     margin: 70px;
 }
-.side {
+.paragraph3 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -95,13 +95,13 @@
     width: 95%;
     height: auto;
     margin-bottom: 40px;
-    margin: 1.5em;
+    margin: 3em;
 }
-.side img{
-    width: 35%;
+.paragraph3 img{
+    width: 45%;
     height: auto;
 }
-.side-text{
+.paragraph3-text{
     display: flex;
     flex-grow: 1;
     text-align: center;
@@ -112,6 +112,65 @@
     color: black;
     font-size: 22px;
 }
+
+.paragraph4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+    width: 95%;
+    height: auto;
+    margin-bottom: 40px;
+    margin: 6em;
+}
+.paragraph4 img{
+    width: 25%;
+    height: auto;
+}
+.paragraph4-text{
+    display: flex;
+    flex-grow: 1;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 4em;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    color: black;
+    font-size: 22px;
+}
+
+
+
+
+.picturegrid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+}
+  
+.picturegrid img {
+    width: calc(25% - 10px);
+    margin-bottom: 10px;
+}
+
+
+
+
+.undergrid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    margin: 2em;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    color: black;
+    font-size: 22px;
+}
+
+
 
 
 

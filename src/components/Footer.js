@@ -1,5 +1,5 @@
 import React from 'react'
-import EmailIcon from '@mui/icons-material/Email';
+//import EmailIcon from '@mui/icons-material/Email';
 import "../styles/Footer.css";
 
 function Footer() {
@@ -13,7 +13,7 @@ function Footer() {
                 <EmailIcon /> <p>1234567@yahoo.com</p>
             </div> */}
             
-            <p className='copy'>&copy; 2021 utdcenntro.com</p>
+            <p className='copy'>&copy; 2023 UTD & Cenntro Collaboration</p>
         </div>
     )
 }

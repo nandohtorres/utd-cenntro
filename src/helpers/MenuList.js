@@ -4,16 +4,19 @@ import three from "../assets/3.jpg";
 import four from "../assets/4.jpg";
 import five from "../assets/5.jpg";
 import six from "../assets/6.jpg";
+import gupta from "../assets/gupta.jpg";
+import varun from "../assets/varun.jpg";
+import show1 from "../assets/show1.jpg";
 
 /*here we making constant and we will use this constant in about.js, we are exporting it from this file to about.js and in about.js on line 3 pay close attention to how we import, maybe we do this to import the form data as well? keep note */
 export const MenuList = [
     {
         image: one,
-        name: "Bridgette",
+        name: "Bridgette Bryant",
         work: "Hardware, Obstacle Detection",
         tools: "Python",
-        email: "email1@gmail.com",
-        linkedin: "linkedin.com"
+        email: "bridgette.bryant99@gmail.com",
+        linkedin: "https://www.linkedin.com/in/bridgette-bryant-098938185/"
     },
     {
         image: two,
@@ -28,24 +31,24 @@ export const MenuList = [
         name: "Noah",
         work: "Obstacle Detection, Navigation",
         tools: "Python",
-        email: "email3@gmail.com",
-        linkedin: "linkedin.com"
+        email: " ",
+        linkedin: " "
     },
     {
         image: four,
-        name: "Dan",
+        name: "Dan Abraham",
         work: "Navigation, UI",
         tools: "Flask, React, Python",
-        email: "email4@gmail.com",
-        linkedin: "linkedin.com"
+        email: "dbraham4@gmail.com",
+        linkedin: "https://www.linkedin.com/in/daniel-abraham-43890714b"
     },
     {
         image: five,
-        name: "Justin",
+        name: "Justin Schwinn",
         work: "Navigation",
         tools: "Python",
-        email: "email5@gmail.com",
-        linkedin: "linkedin.com"
+        email: "justinsch1029@gmail.com",
+        linkedin: "https://www.linkedin.com/in/justin-schwinn-4b4828243/"
     },
     {
         image: six,
@@ -53,7 +56,34 @@ export const MenuList = [
         work: "UI",
         tools: "React, HTML/CSS",
         email: "nandotorresfn@gmail.com",
-        linkedin: "https://www.linkedin.com/in/fernando-torres-utd/",
+        linkedin: "https://www.linkedin.com/in/fernando-torres-utd/"
+        
+    },
+    {
+        image: gupta,
+        name: "Dr. Gopal Gupta",
+        work: "UTD Faculty Advisor ",
+        tools: " ",
+        email: "gopal.gupta@utdallas.edu",
+        linkedin: "https://cs.utdallas.edu/people/faculty/gupta-gopal/"
+        
+    },
+    {
+        image: varun,
+        name: "Varun Nagarajan",
+        work: "Cenntro Sponsored Technical Mentor",
+        tools: " ",
+        email: "gmail",
+        linkedin: "https://www.linkedin.com/in/nagarajanvarun/"
+        
+    },
+    {
+        image: show1,
+        name: "Ro Bert",
+        work: "UTD AI Chassis",
+        tools: " ",
+        email: "ro-bert@aiChassis.com",
+        linkedin: "roBertRocks.com"
         
     },
 
