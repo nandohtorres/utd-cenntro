@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/utd-cenntro/static/css/main.a8cf1cba.css",
-    "main.js": "/utd-cenntro/static/js/main.106c662d.js",
+    "main.css": "/utd-cenntro/static/css/main.3ce89c09.css",
+    "main.js": "/utd-cenntro/static/js/main.c33dc47c.js",
     "static/js/787.0fb61d32.chunk.js": "/utd-cenntro/static/js/787.0fb61d32.chunk.js",
     "static/media/show3.jpg": "/utd-cenntro/static/media/show3.702e01b82a32a4840ead.jpg",
     "static/media/show2.jpg": "/utd-cenntro/static/media/show2.5572a29dac5073f564bc.jpg",
     "static/media/show4.jpg": "/utd-cenntro/static/media/show4.7e09de8fc00a65e5741b.jpg",
+    "static/media/objdet.mov": "/utd-cenntro/static/media/objdet.bd9c1ce9226a36970d76.mov",
+    "static/media/group.jpg": "/utd-cenntro/static/media/group.245f5ddf8e114d9dbbd4.jpg",
     "static/media/show1.jpg": "/utd-cenntro/static/media/show1.65ef9e20379985e51c34.jpg",
     "static/media/2.jpg": "/utd-cenntro/static/media/2.983c3ffd71aab1b60b48.jpg",
     "static/media/bridgenRo.jpg": "/utd-cenntro/static/media/bridgenRo.3ca8e15d3e6532a99a1b.jpg",
@@ -14,6 +16,7 @@
     "static/media/background.jpg": "/utd-cenntro/static/media/background.5314b8a90af4a169af0d.jpg",
     "static/media/6.jpg": "/utd-cenntro/static/media/6.02c080589a9576faca67.jpg",
     "static/media/4.jpg": "/utd-cenntro/static/media/4.cc65cb6d3188533c06b6.jpg",
+    "static/media/3.jpg": "/utd-cenntro/static/media/3.edb33cae2e5b0cab3653.jpg",
     "static/media/chassisrough4.jpg": "/utd-cenntro/static/media/chassisrough4.f8170ecad2a10b58a858.jpg",
     "static/media/header-iChassis1000.jpg": "/utd-cenntro/static/media/header-iChassis1000.b8bf1bedc3fe4c81bc32.jpg",
     "static/media/maybebanner.jpg": "/utd-cenntro/static/media/maybebanner.c29b8de4fc8726ddf0e6.jpg",
@@ -23,14 +26,13 @@
     "static/media/iChassisFlatBedmini.jpg": "/utd-cenntro/static/media/iChassisFlatBedmini.9bfbeb977a68e81ee5c4.jpg",
     "static/media/gupta.jpg": "/utd-cenntro/static/media/gupta.04d3bab4307941d0fa9d.jpg",
     "static/media/varun.jpg": "/utd-cenntro/static/media/varun.b25b76e7fe9e60961992.jpg",
-    "static/media/3.jpg": "/utd-cenntro/static/media/3.30fe017f864e0a3334a6.jpg",
     "index.html": "/utd-cenntro/index.html",
-    "main.a8cf1cba.css.map": "/utd-cenntro/static/css/main.a8cf1cba.css.map",
-    "main.106c662d.js.map": "/utd-cenntro/static/js/main.106c662d.js.map",
+    "main.3ce89c09.css.map": "/utd-cenntro/static/css/main.3ce89c09.css.map",
+    "main.c33dc47c.js.map": "/utd-cenntro/static/js/main.c33dc47c.js.map",
     "787.0fb61d32.chunk.js.map": "/utd-cenntro/static/js/787.0fb61d32.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8cf1cba.css",
-    "static/js/main.106c662d.js"
+    "static/css/main.3ce89c09.css",
+    "static/js/main.c33dc47c.js"
   ]
 }
