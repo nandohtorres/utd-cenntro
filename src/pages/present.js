@@ -14,6 +14,8 @@ import show1 from "../assets/show1.jpg";
 import show2 from "../assets/show2.jpg";
 import show3 from "../assets/show3.jpg";
 import show4 from "../assets/show4.jpg";
+import group from "../assets/group.jpg";
+import objdet from "../assets/objdet.mov";
 
 import showcasing from "../assets/bridgenRo.jpg";
 
@@ -30,16 +32,16 @@ function present() {
             <div className='paragraph1'>
                 <img src = {idea2} alt='ichassis100 mobile directory idea'/>
                 <div className='paragraph1-text'>
-                    <p>At the start of the project, Cenntro had asked us to brainstorm with ideas for possible uses for their newly introduced iChassis. Our team quickly began brainstorming and we came up with many possibilities with which Cenntro could offer potential clients. The top five ideas we presented were: Security Patrol Unit, Mobile Vending Machine, Package Delivery, Mobile Directory(pictured to left) and Mobile Utilities(pictured below). </p>
-                    <p>We all decided we liked the Mobile Utilities idea and decided to move forward with it. Originally, Mobile Utilities included many things such as: Electronic Chargers, Gasoline, Vaccuum, Tire Repair Kits, Jumper Cables, Emergency Contact to Authorities and many more. The main idea was to have an Autonomous Vehicle equipped with utilities that would prove useful in a parking lot setting. </p>
+                    <p>At the outset of the project, Cenntro requested us to brainstorm ideas for the potential applications of their recently launched iChassis. Our team promptly commenced brainstorming and identified several potential use cases that Cenntro could offer its prospective clients. We presented the top five ideas, including Security Patrol Unit, Mobile Vending Machine, Package Delivery, Mobile Directory (shown on the left), and Mobile Utilities (shown below). </p>
+                    <p>After evaluating all the ideas, we unanimously agreed on the Mobile Utilities concept and decided to proceed with it. Initially, Mobile Utilities encompassed a wide range of amenities, such as electronic chargers, gasoline, vacuum, tire repair kits, jumper cables, emergency contact to authorities, and more. The fundamental concept was to have an autonomous vehicle equipped with utilities that could be beneficial in a parking lot setting. </p>
                 </div>
             </div>
 
 
             <div className='paragraph2'>
                 <div className='paragraph2-text' >
-                    <p>With all these ideas we settled in on the fact that EV charging has some issues currently, mainly that the charging stations can be very busy and congested most of the time. We came up with the idea of being able to have a Mobile EV charging station. </p>
-                    <p>The way the EV charging would work is we would have iChassis 100 models readily available in parking lots. Then customers with EV vehicles could use an online interface to request an iChassis 100 equipped with an overhead EV charger. The iChassis would then navigate to the location of the customers vehicle ready to charge their EV. This solves the issue of limited EV charge ports at popular locations like shopping malls and marketplaces.</p>
+                    <p>After considering various ideas, we realized that EV charging poses certain challenges, particularly the issue of busy and congested charging stations. To address this challenge, we came up with a novel concept of a Mobile EV Charging Station. </p>
+                    <p>The proposed solution involved deploying iChassis100 models at parking lots. EV vehicle owners could request an iChassis100 equipped with an overhead EV charger via an online interface. The iChassis would then navigate to the location of the customer's vehicle, ready to charge their EV. This approach solves the problem of limited EV charge ports at popular locations such as shopping malls and marketplaces.</p>
                 </div>
                 <img src = {idea1} alt='ichassis100 mobile utilities idea'/>
             </div>
@@ -54,8 +56,8 @@ function present() {
                 <img src = {vending} alt='iChassis100 rendered vending machine'/>
                 <div className='paragraph3-text'>
                     <p>To the left, we have an official Cenntro rendered image showcasing the potential final design of the iChassis100 for a vending machine. </p>
-                    <p>We now had a practical idea that could actually bring value to our society today in an ever growing market for EVs.</p>
-                    <p>This idea would take teams of Engineers and years to bring to fruition, so we had to focus on an aspect of the idea we felt that we could produce. We all wanted to work with Artificial Intelligence and so we decided to create our own "iChassis" and implement the ability for the Chassis to drive to a desired location in the parking lot. This meant the Chassis would need to safely navigate through a parking lot to the desired location. Our Hardware and Obstacle Detection team got to work. </p>
+                    <p>We had finally arrived at a practical idea that could offer tangible value to our society, especially in the context of the ever-growing market for EVs.</p>
+                    <p>However, we recognized that bringing this idea to fruition would require significant resources and time, as it involved teams of engineers and years of development. Therefore, we decided to focus on an aspect of the idea that we felt we could execute efficiently. Since we were all interested in artificial intelligence, we set out to create our own version of the "iChassis" and incorporate the ability for it to drive to a specific location in a parking lot autonomously. This would require the chassis to navigate safely through a parking lot to the designated location. Consequently, our hardware and obstacle detection team took on the challenge. </p>
                 </div>
             </div>
 
@@ -63,12 +65,16 @@ function present() {
             <div className='paragraph4'>
                 <img src = {showcasing} alt='Bridgette with Ro Bert'/>
                 <div className='paragraph4-text'>
-                    <p>We made our list of parts needed and ordered them right away. Luckily, our team member Bridgette had previous experience building Raspberry Pi cars. She knew exactly what we needed and where the issues would lie. We ordered extra parts like external antenna and extra batteries. The parts came in and Bridgette led the building of the UTD chassis. Below is a list of the parts we used.  
-                    </p>
+                    <p>We wasted no time and promptly compiled a list of the required parts, which we ordered immediately. Fortunately, one of our team members, Bridgette, had previous experience building Raspberry Pi cars, which proved beneficial. She knew precisely what components we needed and where potential issues might arise. In anticipation of unforeseen circumstances, we ordered additional parts such as external antennas and batteries. Once the parts arrived, Bridgette spearheaded the construction of the UTD chassis, with the team's full support. Below is a comprehensive list of the components we employed: </p>
                     <p><a href="https://docs.google.com/spreadsheets/d/1tm3lPVVQ9qCBv7gOGHLOpW0cvU83FtqpZ8IdkWLmLEo/edit#gid=0" target='_blank' rel='noreferrer'>List of parts we ordered to build the UTD Chassis.</a></p>
-                    <p>Once it was built, we needed to start working on the object detection and the navigation of the car. This was the hardest part of the project. We had to re-align our goals when navigation didnt prove to be as attainable as we orginally thought. The main issue was our antenna and signal strength was limiting our GPS coordinates from being accurate enough for us to use. Originally, we had planned to use the Input Form at the bottom of this webpage to send a coordinate location to a certain parking spot in the lot(ex: H12). We kept the form on webpage for documentation purposes. We re-evaluated our circumstances but still wanted the car to be able to get to a parking spot on its own. 
+                    <p>Once we completed the chassis construction, our focus shifted to developing object detection and navigation capabilities for the car, which proved to be the most challenging part of the project. Unfortunately, we had to reassess our goals when we realized that achieving navigation was not as feasible as we had initially anticipated. The primary obstacle was the limited antenna and signal strength, which prevented us from obtaining GPS coordinates with the required level of accuracy. Initially, we had intended to use the input form at the bottom of the webpage to send a coordinate location to a designated parking spot in the lot, such as H12. Although we retained the form on the webpage for documentation purposes, we had to reconsider our situation but were still determined to enable the car to locate a parking spot independently.
                     </p>
                 </div>
+            </div>
+
+            <div className= 'welcoming'>
+                <h1>Presenting the newest UTD Autonomous Vehicle:</h1>
+                <h1> Ro Bert</h1>
             </div>
 
 
@@ -80,10 +86,22 @@ function present() {
             </div>
 
             <div className='undergrid'>
-                <p> </p>
+                <p> We opted to hard code the UTD chassis with instructions to direct it to the designated "parking spot". As a result, we shifted our focus to perfecting object detection to ensure that the car knew when to stop. This was a crucial step, as safety is paramount in the operation of an autonomous vehicle. We conducted numerous test runs to ensure that the object detection system was functioning seamlessly. During testing, we encountered coding issues that resulted in the car crashing, despite our efforts to fix them. After several trial and error attempts, we discovered that our code was accurate, but we had not taken into account the sensor positions. Originally, we had been testing object detection using our foot or a nearby broom, which became our unofficial 7th team member due to its frequent use. However, we soon realized that the sensors were functioning correctly and the problem was with the objects we were using for testing, as they did not optimally utilize the sensor range. To address this issue, we switched to using a notebook with a flat surface, allowing the sensors to accurately detect objects, as shown in the video.  </p>
+
+                <video width="420" height="340" controls>
+                    <source src={objdet} type="video/mp4" />
+                Your browser does not support the video tag.
+                </video>
+
             </div>
 
+            <div className='groupPic'>
+                <img src = {group} alt='all members of team'/>
+            </div>
 
+            <div className='undergroup'>
+                <p> At the outset of the project, we were highly optimistic about our ability to achieve our objectives to the fullest extent. However, we soon realized that things don't always go as planned. Consequently, we had to make significant changes to our original approach to still achieve our ultimate aim of creating an autonomous vehicle that could navigate a parking lot safely. Through this experience, we gained a greater appreciation for the project development process. Each team member focused on a different aspect of the project, and in the end, we produced a demo that we were all proud of. </p>
+            </div>
 
 
 

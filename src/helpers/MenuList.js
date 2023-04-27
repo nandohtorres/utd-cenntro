@@ -31,7 +31,7 @@ export const MenuList = [
         name: "Noah",
         work: "Obstacle Detection, Navigation",
         tools: "Python",
-        email: " ",
+        email: "nbc170001@utdallas.edu",
         linkedin: " "
     },
     {
