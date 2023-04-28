@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/utd-cenntro/static/css/main.3ce89c09.css",
-    "main.js": "/utd-cenntro/static/js/main.c33dc47c.js",
+    "main.js": "/utd-cenntro/static/js/main.167ee18f.js",
     "static/js/787.0fb61d32.chunk.js": "/utd-cenntro/static/js/787.0fb61d32.chunk.js",
+    "static/media/objdet.mov": "/utd-cenntro/static/media/objdet.820eda6c9705dcffa047.mov",
     "static/media/show3.jpg": "/utd-cenntro/static/media/show3.702e01b82a32a4840ead.jpg",
     "static/media/show2.jpg": "/utd-cenntro/static/media/show2.5572a29dac5073f564bc.jpg",
     "static/media/show4.jpg": "/utd-cenntro/static/media/show4.7e09de8fc00a65e5741b.jpg",
-    "static/media/objdet.mov": "/utd-cenntro/static/media/objdet.bd9c1ce9226a36970d76.mov",
     "static/media/group.jpg": "/utd-cenntro/static/media/group.245f5ddf8e114d9dbbd4.jpg",
     "static/media/show1.jpg": "/utd-cenntro/static/media/show1.65ef9e20379985e51c34.jpg",
     "static/media/2.jpg": "/utd-cenntro/static/media/2.983c3ffd71aab1b60b48.jpg",
@@ -28,11 +28,11 @@
     "static/media/varun.jpg": "/utd-cenntro/static/media/varun.b25b76e7fe9e60961992.jpg",
     "index.html": "/utd-cenntro/index.html",
     "main.3ce89c09.css.map": "/utd-cenntro/static/css/main.3ce89c09.css.map",
-    "main.c33dc47c.js.map": "/utd-cenntro/static/js/main.c33dc47c.js.map",
+    "main.167ee18f.js.map": "/utd-cenntro/static/js/main.167ee18f.js.map",
     "787.0fb61d32.chunk.js.map": "/utd-cenntro/static/js/787.0fb61d32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ce89c09.css",
-    "static/js/main.c33dc47c.js"
+    "static/js/main.167ee18f.js"
   ]
 }
