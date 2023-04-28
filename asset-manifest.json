@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/utd-cenntro/static/css/main.3ce89c09.css",
-    "main.js": "/utd-cenntro/static/js/main.167ee18f.js",
+    "main.js": "/utd-cenntro/static/js/main.67a2e047.js",
     "static/js/787.0fb61d32.chunk.js": "/utd-cenntro/static/js/787.0fb61d32.chunk.js",
     "static/media/objdet.mov": "/utd-cenntro/static/media/objdet.820eda6c9705dcffa047.mov",
     "static/media/show3.jpg": "/utd-cenntro/static/media/show3.702e01b82a32a4840ead.jpg",
@@ -28,11 +28,11 @@
     "static/media/varun.jpg": "/utd-cenntro/static/media/varun.b25b76e7fe9e60961992.jpg",
     "index.html": "/utd-cenntro/index.html",
     "main.3ce89c09.css.map": "/utd-cenntro/static/css/main.3ce89c09.css.map",
-    "main.167ee18f.js.map": "/utd-cenntro/static/js/main.167ee18f.js.map",
+    "main.67a2e047.js.map": "/utd-cenntro/static/js/main.67a2e047.js.map",
     "787.0fb61d32.chunk.js.map": "/utd-cenntro/static/js/787.0fb61d32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ce89c09.css",
-    "static/js/main.167ee18f.js"
+    "static/js/main.67a2e047.js"
   ]
 }
