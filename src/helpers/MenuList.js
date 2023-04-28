@@ -73,7 +73,7 @@ export const MenuList = [
         name: "Varun Nagarajan",
         work: "Cenntro Sponsored Technical Mentor",
         tools: " ",
-        email: "gmail",
+        email: "",
         linkedin: "https://www.linkedin.com/in/nagarajanvarun/"
         
     },
